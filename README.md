@@ -3,3 +3,5 @@ This code allows you to when run in index.html to create a popup that, when you 
 
 [codepen version of this](https://codepen.io/Themythicalpro9/pen/XWLLrrg)
 [tutorialspoint version](http://tpcg.io/_1MFW01)
+
+NOTE: I have tried this on a Asus school chromebook, but i do not know if it will work on other types of Chromebook. It should though!
